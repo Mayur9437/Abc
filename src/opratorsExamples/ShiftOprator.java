@@ -1,0 +1,17 @@
+package opratorsExamples;
+
+public class ShiftOprator {
+	
+		public static void main(String args[])
+		{
+			
+			int a = 10;
+			int b = 2;
+			
+			System.out.println(a<<b);        //left shift operator
+			
+			System.out.println(a>>b);        //Right shift operator
+			
+			
+		}
+}
